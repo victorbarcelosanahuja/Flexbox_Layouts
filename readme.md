@@ -1,4 +1,4 @@
-# 🧩 Práctica Flexbox — Disseny d’interfícies web (M9)
+# Práctica Flexbox — Disseny d’interfícies web (M9)
 
 Autor: Víctor Barceló  
 Asignatura: M9 — Disseny d’interfícies web  
